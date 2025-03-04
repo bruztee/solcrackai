@@ -1,8 +1,8 @@
 // Social Media Links
 export const SOCIAL_LINKS = {
-  twitter: "https://twitter.com/solcrackai",
-  github: "https://github.com/solcrackai",
-  discord: "https://discord.gg/solcrackai",
+  twitter: "https://x.com/solcrackai",
+  github: "https://github.com/bruztee/solcrackai",
+  discord: "https://x.com/solcrackai",
   telegram: "https://t.me/solcrackai",
 };
 
@@ -17,7 +17,7 @@ export const DOC_LINKS = {
 
 // Community Links
 export const COMMUNITY_LINKS = {
-  forum: "https://forum.solcrackai.com",
+  forum: "https://x.com/solcrackai",
   events: "/community#events",
   showcase: "/community#showcase",
   ambassadors: "/community#ambassadors",
