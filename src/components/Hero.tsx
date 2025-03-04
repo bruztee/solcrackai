@@ -6,7 +6,7 @@ import SolanaLogo from './SolanaLogo';
 const Hero = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [isCopied, setIsCopied] = useState(false);
-  const contractAddress = "EpqzCz38FFb1tezCBownCsyBC9drCCRqfudJoH9opump";
+  const contractAddress = "Not out yet";
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(contractAddress).then(() => {
